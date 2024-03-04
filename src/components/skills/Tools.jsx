@@ -58,7 +58,7 @@ const Tools = () => {
                 <SiOpenai size="1.8rem" color='#333333'/>
                     <div>
                         <h3 className="skills__name">
-                            OpneAI
+                            OpenAI
                         </h3>
                         <span className="skills__level">Advanced</span>
                     </div>
