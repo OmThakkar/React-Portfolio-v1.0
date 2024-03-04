@@ -75,7 +75,9 @@
   
   @media screen and (max-width: 576px) {
     .about__info{
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem !important;
+
     }
 
     .about__description{
@@ -87,6 +89,5 @@
   @media screen and (max-width: 350px) {
     .about__info{
         grid-template-columns: 1fr;
-        gap: 1rem !important;
     }
   }
