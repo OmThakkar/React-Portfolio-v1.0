@@ -160,6 +160,24 @@ img{
   gap: .5rem;
 }
 
+::-webkit-scrollbar {
+  width: 4px;
+  border-radius: 1rem;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--container-color); /* Color of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--title-color);
+  border-radius: 1rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--title-color-dark); /* Color of the scrollbar handle on hover */
+}
+
 /* For large devices */
 @media screen and (max-width: 992px) {
   .container {
