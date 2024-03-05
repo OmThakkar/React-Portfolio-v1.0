@@ -27,31 +27,29 @@ const Services = () => {
               <i className="uil uil-times services__modal-close" onClick={() => toggleTab(0)}></i>
 
               <h3 className="services__modal-title">Web Development</h3>
-              <p className="services__modal-description">
-                Service with 1 year of experience. Providing quality work to
-                client and companies.
+              <p className="services__modal-description">Clients and companies choose me because, when I develop a website they are
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop User Interface
+                    Eye-catchy 
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web Page Development</p>
+                  <p className="services__modal-info">Utilizing Bootstrap, Tailwind, Flowbite, MaterialUI</p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I guide on UX of the application
+                    Accurately following the designs
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies
+                    Super user-friendly
                   </p>
                 </li>
               </ul>
@@ -72,30 +70,29 @@ const Services = () => {
 
               <h3 className="services__modal-title">UI/UX Design</h3>
               <p className="services__modal-description">
-                Service with 1 year of experience. Providing quality work to
-                client and companies.
+                I find pleasure in designing minimal, aesthetic, purposeful layouts and for designing I
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop User Interface
+                    Use Whimsical for wireframing.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web Page Development</p>
+                  <p className="services__modal-info">Use Figma for high-fidelity mockups</p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I guide on UX of the application
+                    Apply UI/UX principles
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies
+                    Research a lot...
                   </p>
                 </li>
               </ul>
@@ -116,30 +113,29 @@ const Services = () => {
 
               <h3 className="services__modal-title">Visual Design</h3>
               <p className="services__modal-description">
-                Service with 1 year of experience. Providing quality work to
-                client and companies.
+                I make the designs and products more visually appealing, adding a magic touch by
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop User Interface
+                    Deriving creative concepts
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web Page Development</p>
+                  <p className="services__modal-info">Understanding purpose</p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I guide on UX of the application
+                    Making it as simple as possible
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies
+                    Being open to new approaches
                   </p>
                 </li>
               </ul>
