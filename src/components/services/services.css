@@ -137,4 +137,7 @@
     .services__container{
         grid-template-columns: 1fr;
     }
+    .services__modal-description {
+        padding: 0.5rem;
+      }
 }
